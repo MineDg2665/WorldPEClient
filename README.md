@@ -1,5 +1,9 @@
+# DOWNLOAD HERE: https://www.mediafire.com/file/b6fgephj7c3lpq2/WorldPE_CLIENT_0.13.1_with_MUSIC.apk/file
+
+# СКАЧИВАТЬ ЗДЕСЬ: https://www.mediafire.com/file/b6fgephj7c3lpq2/WorldPE_CLIENT_0.13.1_with_MUSIC.apk/file
+
 🇷🇺 
-# КЛИЕНТ WorldPE CLIENT 4.0.2 ДЛЯ ИГРОКОВ!
+# КЛИЕНТ WorldPE CLIENT НА ВЕРСИЮ 0.13.1 ДЛЯ ИГРОКОВ!
 
 **_И ЧТО В НЁМ ЕСТЬ?_**
 
@@ -10,20 +14,18 @@
 >
 > 2️⃣ - Изменён баннер!
 > 
-> 3️⃣ - ЕСТЬ ПОДДЕРЖКА СКИНОВ!!! (Исправлено!)
+> 3️⃣ - КРАСИВЫЙ ШРИФТ!
 > 
-> 4️⃣ - ЕСТЬ ПОЛНЫЙ (ОБНОВЛЁННЫЙ И ИСПРАВЛЕННЫЙ) ПЕРЕВОД ВСЕХ ТЕКСТОВ И ПРЕДМЕТОВ!!!
+> 4️⃣ - ДОБАВЛЕНА ФОНОВАЯ СУЗЫКА В ИГРЕ!!!
 > 
-> 5️⃣ - КАСТОМНЫЕ ПИВО 🍺 И РИС 🍚!!!
-> 
-> 6️⃣ - MinecraftPETv4!!!
-> 
-> 7️⃣ - СВОЙ АПК ПАКЕТ `net.minedg.worldpeclient`!!!
+> 5️⃣ - СВОЙ АПК ПАКЕТ `net.minedg.worldpeclient0.13.1`!!!
+>
+> 6️⃣ - ИЗМЕНЁННЫЕ СПЛЭШИ!
 
 **Так что, скачивай клиент, он 100% тебе зайдёт!!!**
 
 🇺🇸
-# CLIENT WorldPE CLIENT 4.0.2 FOR PLAYERS!
+# CLIENT WorldPE CLIENT ON VERSION 0.13.1 FOR PLAYERS!
 
 **_AND WHAT IS IN IT?_**
 
@@ -34,14 +36,12 @@
 > 
 > 2️⃣ - The banner has been changed!
 > 
-> 3️⃣ - SUPPORT FOR SKINS!!! (Fixed!)
+> 3️⃣ - BEAUTIFUL FONT!!! (only for Russian)
 > 
-> 4️⃣ - THERE IS A COMPLETE (UPDATED AND CORRECTED) TRANSLATION OF ALL TEXTS AND OBJECTS!!!
-> 
-> 5️⃣ - CUSTOM BEER 🍺 AND RICE 🍚!!!
-> 
-> 6️⃣ - MinecraftPETv4!!!
-> 
-> 7️⃣ - OWN APK PACKAGE `net.minedg.worldpeclient`!!!
+> 4️⃣ - BACKGROUND MUSIC ADDED TO THE GAME!!!
+>
+> 5️⃣ - OWN APK PACKAGE `net.minedg.worldpeclient0131`!!!
+>
+> 6️⃣ - EDITED SPLASHES!
 
 **So, download the client!!**
